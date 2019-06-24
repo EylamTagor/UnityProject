@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\eylam\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\eylam\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_IDK (1).207073542.00" t="ExcludeRecursive" />
+    <e p="C:\Users\eylam\Unity\IDK (1)" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CharacterController2D.cs" t="Include" />
+        <e p="NextLevel.cs" t="Include" />
+        <e p="PlayerMovement.cs" t="Include" />
+        <e p="UPAToolkit" t="Include">
+          <e p="Editor" t="Include">
+            <e p="EditorGUI" t="Include">
+              <e p="UPAEditorWindow.cs" t="Include" />
+              <e p="UPAExportWindow.cs" t="Include" />
+              <e p="UPAImageCreationWindow.cs" t="Include" />
+              <e p="UPAImageEditorPreview.cs" t="Include" />
+              <e p="UPALayerSettings.cs" t="Include" />
+            </e>
+            <e p="UPABlendModes.cs" t="Include" />
+            <e p="UPACustomTypes.cs" t="Include" />
+            <e p="UPADrawer.cs" t="Include" />
+            <e p="UPAImage.cs" t="Include" />
+            <e p="UPALayer.cs" t="Include" />
+            <e p="UPASession.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="IDK (1).sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
